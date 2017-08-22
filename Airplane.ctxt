@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=yearManufactured\ make\ model\ maximumHeightFeet
+comment0.target=Airplane(int,\ java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ Airplane\r\n\ @param\ yearManufactured\ to\ set\ attribute\ for\ manufactured\ year\ of\ airplane\r\n\ @param\ make\ to\ set\ attribute\ for\ make\ of\ the\ airplane\r\n\ @param\ model\ to\ set\ attribute\ for\ model\ of\ the\ airplane\r\n\ @param\ maximumHeightFeet\ to\ set\ attribute\ of\ max\ height\ of\ flight\ in\ feet\ for\ airplane\r\n
+comment1.params=airplane
+comment1.target=boolean\ equals(Airplane)
+comment1.text=\r\n\ Method\ to\ compare\ airplanes\r\n\ @param\ airplane\ to\ identify\ if\ airplane\ equals\r\n\ @return\ true\ of\ false\ if\ the\ two\ airplanes\ are\ equal\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ To\ return\ information\ of\ the\ airplane\ to\ String\r\n\ @return\ String\ details\ of\ this\ airplane\r\n
+comment3.params=airplane
+comment3.target=int\ compareTo(Airplane)
+comment3.text=\r\n\ Method\ to\ compare\ two\ airplanes\ to\ see\ which\ has\ a\ higher\ flight\ height\ in\ feet.\r\n\ @param\ airplane\ to\ compare\ to\ this\ airplane.\r\n\ @return\ +\ if\ (this\ airplane\ is\ higher)\ if\ it\ has\ a\ higher\ max\ height\ in\ feet\r\n
+comment4.params=
+comment4.target=int\ getMaximumHeightFeet()
+comment4.text=\r\n\ @return\ maximum\ flight\ height\ in\ feet\r\n
+comment5.params=maximumHeightFeet
+comment5.target=void\ setMaximumHeightFeet(int)
+comment5.text=\r\n\ @param\ maximumHeightFeet\ sets\ attribute\ to\ airplane\r\n
+comment6.params=
+comment6.target=void\ accelerate()
+comment7.params=
+comment7.target=void\ steerLeft()
+comment8.params=
+comment8.target=void\ steerRight()
+numComments=9

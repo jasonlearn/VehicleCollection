@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=yearManufactured\ make\ model\ isMotorized
+comment0.target=Boat(int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ boat.\r\n\ @param\ yearManufactured\ to\ set\ attribute\ for\ manufacture\ year\ of\ boat\r\n\ @param\ make\ to\ set\ attribute\ for\ make\ of\ the\ boat\r\n\ @param\ model\ to\ set\ attribute\ for\ model\ of\ the\ boat\r\n\ @param\ isMotorized\ set\ true\ if\ this\ boat\ has\ a\ motor\r\n
+comment1.params=boat
+comment1.target=boolean\ equals(Boat)
+comment1.text=\r\n\ Method\ to\ compare\ if\ the\ boat\ taken\ as\ parameter\ is\ equal\ to\ this\ boat,\r\n\ will\ be\ equal\ if\ both\ boats\ has\ a\ motor.\r\n\ @param\ boat\ to\ compare\ with\ this\ boat\ to\ see\ if\ its\ a\ equal\r\n\ @return\ whether\ the\ two\ boats\ are\ equals\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Method\ toString\ to\ return\ details\ of\ this\ boat\ as\ a\ String.\r\n\ @return\ String\ details\ of\ this\ boat\r\n
+comment3.params=boat
+comment3.target=int\ compareTo(Boat)
+comment3.text=\r\n\ Method\ to\ compare\ two\ boats\ to\ see\ which\ is\ newer.\r\n\ @param\ boat\ to\ compare\ with\ this\ boat.\r\n\ @return\ +\ if\ (this\ boat\ is\ bigger)\ if\ it\ is\ a\ newer\ boat.\r\n
+comment4.params=
+comment4.target=boolean\ getIsMotorized()
+comment4.text=\r\n\ Accessor\ method.\r\n\ @return\ isMotorized\ a\ boolean\ value\ whether\ this\ boat\ is\ motorized.\r\n
+comment5.params=isMotorized
+comment5.target=void\ setIsMotorized(boolean)
+comment5.text=\r\n\ Mutator\ method\ to\ alter\ the\ value\ of\ isMotorized\r\n\ @param\ isMotorized\ \r\n
+comment6.params=
+comment6.target=void\ accelerate()
+comment7.params=
+comment7.target=void\ steerLeft()
+comment8.params=
+comment8.target=void\ steerRight()
+numComments=9

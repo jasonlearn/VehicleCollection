@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VehicleCollection()
+comment0.text=\r\n\ Constructor\ for\ VehicleCollection.\r\n\ Creates\ multiple\ arraylists\ and\ adds\ vehicle\ to\ the\ collection.\r\n\ displays\ all\ objects\ of\ the\ array\ unsorted.\r\n\ sorts\ collections.\r\n\ displays\ all\ objects\ of\ the\ array\ sorted\ according\ to\ each\ class\ type's\ requirement.\r\n
+numComments=1
